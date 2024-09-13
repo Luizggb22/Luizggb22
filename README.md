@@ -1,6 +1,6 @@
 ## Olá eu sou Luiz👋
 
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizggb22&show_icons=true&theme=radical)
+![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizggb22&show_icons=true&theme=radical)
 
 ## Tecnologias que utilizo!
 <div style="display: inline_block"></br>
